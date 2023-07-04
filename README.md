@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in playing the piano, literature, exercise and codding :)
-- 🌱 I’m currently learning .net and reactJs
-- 💞️ I’m looking to collaborate on a .net project of a USA based company
+- 🌱 I’m currently learning .net and AI/ML
+- 💞️ I’m looking to collaborate on a international .net project
 - 📫 Email: luizdavid.93@hotmail.com 
 
 <!---
