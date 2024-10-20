@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in playing chess, literature, exercise and codding :)
-- 🔍 I’m currently learning Generative AI, DSA and Design Patterns
+- 📚 I’m currently learning Generative AI, DSA and Design Patterns
 - 📫 Email: luizdavid.93@hotmail.com
 - 📝 LinkedIn: https://www.linkedin.com/in/david-oliveira-375623113/
 
